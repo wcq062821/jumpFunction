@@ -1,5 +1,5 @@
 
-##This is a sublime text plugin for jumping to nearby functions or block
+# This is a sublime text plugin for jumping to nearby functions or block
 
 1.**Install**
 
